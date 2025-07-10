@@ -1,1 +1,1 @@
-More content
+Hello, Git and GitHub!
